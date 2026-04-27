@@ -8,7 +8,7 @@ st.title("Employee Engagement & Burnout Dashboard")
 file = st.file_uploader("Upload CSV", type=["csv"])
 
 if file:
-    df = pd.read_csv('Palo Alto Networks.csv')
+    df = pd.read_csv('data.csv')
 
     # Clean column names
     df.columns = df.columns.str.strip().str.replace(" ", "")
