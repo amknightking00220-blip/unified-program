@@ -45,7 +45,7 @@ High-Risk Employees Flagged    →  126     (composite burnout + engagement scor
 Income Gap (Leavers vs Stayed) →  -30.0%  ($4,787 vs $6,833 avg monthly income)
 No Stock Option Attrition      →  24.4%   (2.6× rate of Level 1 holders at 9.4%)
 Single Employee Attrition      →  25.5%   (2.5× the rate of divorced employees)
-```
+
 
 ---
 
@@ -63,7 +63,7 @@ EngagementIndex = mean(
     RelationshipSatisfaction_norm,
     WorkLifeBalance_norm
 )
-```
+---
 
 | Tier | Range | Headcount | Attrition Rate |
 |------|-------|-----------|----------------|
@@ -136,10 +136,6 @@ Research Scientists represent **25.4% of all high-risk employees** despite being
 | High-Risk Employee Count | 126 | < 80 | **< 40** |
 | Avg. Engagement Index | 0.574 | > 0.610 | **> 0.650** |
 | Est. Annual Attrition Cost | $8–15M | < $10M | **< $6M** |
-
----
-
-# 📁 Repository Structure
 
 ---
 
