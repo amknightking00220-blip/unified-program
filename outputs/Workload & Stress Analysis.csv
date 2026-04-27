@@ -1,0 +1,4 @@
+,OverTime,EngagementIndex,Max engagement in OverTime is,BusinessTravel,EngagementIndex,Max engagement in Travel Frequency is,Commute,EngagementIndex,Max engagement in Commute is
+0,No,0.5663345983554713,Yes,Travel_Rarely,0.571508469159476,Travel_Frequently,far,0.5726915520628684,Very Far
+1,Yes,0.5947516025641026,,Non-Travel,0.5783333333333334,,near,0.5738396624472574,
+2,,,,Travel_Frequently,0.5830324909747292,,very far,0.5780141843971632,

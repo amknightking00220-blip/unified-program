@@ -1,0 +1,4 @@
+,JobLevel,EngagementIndex,Max engagement in job level is,Employee_Experience,EngagementIndex,Max engagement in experience at company is,Years in current role,EngagementIndex,Max engagement in experience at current job in company is
+0,LOW(1-3),0.5723294723294724,MEDIUM(3-4),beginner(1-5),0.5702413479052824,intermediate(5-20),Experienced(15-20),0.4807692307692308,Mid-Tenure(5-15)
+1,HIGH(4-5),0.5821256038647343,,professional(20-40),0.5707070707070707,,New(0-5),0.5732243319268635,
+2,MEDIUM(3-4),0.5943396226415094,,intermediate(5-20),0.5793524416135881,,Mid-Tenure(5-15),0.5789129011132941,
